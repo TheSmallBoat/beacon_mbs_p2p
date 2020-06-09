@@ -1,5 +1,5 @@
-# beacon_mbs_p2p Heavy WIP.
-A mqtt message broker run over peer_to_peer overlay network. 
+# beacon_mbs_p2p 
+A mqtt message broker run over peer_to_peer overlay network, Heavy WIP.
 
 ## [Docker Image Package]
 Release v2020.03.20 https://github.com/TheSmallBoat/beacon_mbs_p2p/packages/251191
