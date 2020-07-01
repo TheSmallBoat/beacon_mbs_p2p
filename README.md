@@ -11,3 +11,7 @@ Release v2020.03.20 https://github.com/TheSmallBoat/beacon_mbs_p2p/releases/tag/
 
 ## [Related Documents]
 https://github.com/TheSmallBoat/beacon_docs/tree/master/mqtt_p2p_network_test_demo_20_03
+
+
+## NOTICE
+The p2p network library using the general_toolbox/p2p_network, and needs to change the import module's name for all those local names to remote GitHub's.
