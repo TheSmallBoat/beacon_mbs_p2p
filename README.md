@@ -14,4 +14,5 @@ https://github.com/TheSmallBoat/beacon_docs/tree/master/mqtt_p2p_network_test_de
 
 
 ## NOTICE
-The p2p network library using the [go-toolbox/p2p_net](https://github.com/TheSmallBoat/go-toolbox/tree/master/p2p_net), and needs to change the import module's name for all those local names to remote GitHub's in the source files.
+1. The p2p network library using the go-toolbox/p2p_net.
+2. Needs to change the import module's name for all those local names in the source files to remote GitHub's.
